@@ -1,0 +1,46 @@
+﻿                    "image": "assets/entradas/curricanes.jpg"
+                },
+                {
+                    "name": { "es": "Gyosas (5 pzas)", "en": "Gyosas (5 pcs)" },
+                    "description": { "es": "Wonton rellenas de puerco selladas con ponzu.", "en": "Wonton filled with pork sealed with ponzu." },
+                    "detailedDescription": { "es": "Wonton rellenas de puerco, selladas con ponzu y salsa serranito, ajonjolí y cebollín.", "en": "Wonton filled with pork, sealed with ponzu and serranito sauce, sesame and scallions." },
+                    "price": "120 MXN",
+                    "image": "assets/entradas/gyosas.jpg"
+                },
+                {
+                    "name": { "es": "Chiles Rellenos (3 pzas)", "en": "Stuffed Peppers (3 pcs)" },
+                    "description": { "es": "Chile caribes empanizados, rellenos a elegir.", "en": "Breaded caribe chili, filling of choice." },
+                    "detailedDescription": { "es": "Chile caribes empanizados, rellenos del ingrediente a elegir (tampico y camarón o solo tampico), salsa cilantro, anguila, spicy, ajonjolí, furikake y perejil.", "en": "Breaded caribe chili, filled with choice of ingredient (tampico and shrimp or just tampico), cilantro sauce, eel, spicy, sesame, furikake and parsley." },
+                    "price": "145 MXN",
+                    "image": "assets/entradas/chiles-rellenos.jpg"
+                },
+                {
+                    "name": { "es": "Pulpo Cata", "en": "Cata Octopus" },
+                    "description": { "es": "Láminas de pulpo frito salteado con ponzu.", "en": "Fried octopus slices sautéed with ponzu." },
+                    "detailedDescription": { "es": "Láminas de pulpo frito en fécula de maíz, salteado con ponzu, salsa serranito, chile serrano y limón.", "en": "Fried octopus slices in cornstarch, sautéed with ponzu, serranito sauce, serrano chili and lemon." },
+                    "price": "175 MXN",
+                    "image": "assets/entradas/pulpo-cata.jpg"
+                },
+                {
+                    "name": { "es": "Quijadas de Pescado (2 pzas)", "en": "Fish Jaws (2 pcs)" },
+                    "description": { "es": "Quijadas de pesca del día fritas.", "en": "Fried catch of the day jaws." },
+                    "detailedDescription": { "es": "Quijadas de pesca del día fritas con harina preparada, montadas con una salsa agridulce, ajonjolí y perejil.", "en": "Fried catch of the day jaws with prepared flour, mounted with sweet and sour sauce, sesame and parsley." },
+                    "price": "165 MXN",
+                    "image": "assets/entradas/quijadas-pescado.jpg"
+                },
+                {
+                    "name": { "es": "Camarones Roca (12 pzas)", "en": "Rock Shrimp (12 pcs)" },
+                    "description": { "es": "Camarones fritos en tempura con aderezo spicy.", "en": "Fried shrimp in tempura with spicy dressing." },
+                    "detailedDescription": { "es": "Camarones fritos en tempura preparada, con aderezo spicy, anguila, cebollín, ajonjolí y finas rodajas de naranja.", "en": "Fried shrimp in prepared tempura, with spicy dressing, eel, scallions, sesame and thin orange slices." },
+                    "price": "190 MXN",
+                    "image": "assets/entradas/camarones-roca.jpg"
+                },
+                {
+                    "name": { "es": "Verduras Tempura", "en": "Tempura Vegetables" },
+                    "description": { "es": "Verduras en tempura preparada con salsas.", "en": "Vegetables in prepared tempura with sauces." },
+                    "detailedDescription": { "es": "Coliflor, brócoli, zanahoria, calabaza, camotes, berenjena en tempura preparada, anguila, spicy mayo, cilantro, ajonjolí y perejil.", "en": "Cauliflower, broccoli, carrot, squash, sweet potatoes, eggplant in prepared tempura, eel, spicy mayo, cilantro, sesame and parsley." },
+                    "price": "140 MXN",
+                    "image": "assets/entradas/verduras-tempura.jpg"
+                }
+            ]
+        },
