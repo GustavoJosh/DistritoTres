@@ -15,147 +15,189 @@
                     "description": { "es": "Pulpo fresco sobre arroz de sushi.", "en": "Fresh octopus on sushi rice." },
                     "detailedDescription": { "es": "Delicioso nigiri de pulpo tierno, perfectamente cocido y presentado sobre arroz de sushi.", "en": "Delicious tender octopus nigiri, perfectly cooked and presented on sushi rice." },
                     "price": "45 MXN",
-                    "image": "assets/entradas/nigiri-pulpo.webp"
+                    "image": "assets/entradas/nigiri-pulpo.webp",
+                    "proteins": ["octopus"],
+                    "photo": "assets/entradas/nigiri-pulpo.webp"
                 },
                 {
                     "name": { "es": "Nigiri de Salmón", "en": "Salmon Nigiri" },
                     "description": { "es": "Salmón fresco sobre arroz de sushi.", "en": "Fresh salmon on sushi rice." },
                     "detailedDescription": { "es": "Nigiri clásico de salmón del Atlántico fresco, cortado en la forma perfecta sobre arroz de sushi.", "en": "Classic fresh Atlantic salmon nigiri, cut in perfect shape on sushi rice." },
                     "price": "40 MXN",
-                    "image": "assets/entradas/nigiri-salmon.webp"
+                    "image": "assets/entradas/nigiri-salmon.webp",
+                    "proteins": ["salmon"],
+                    "photo": "assets/entradas/nigiri-salmon.webp"
                 },
                 {
                     "name": { "es": "Nigiri de Jurel", "en": "Yellowtail Nigiri" },
                     "description": { "es": "Jurel fresco sobre arroz de sushi.", "en": "Fresh yellowtail on sushi rice." },
                     "detailedDescription": { "es": "Jugoso nigiri de jurel fresco, ideal para los amantes del pescado.", "en": "Juicy fresh yellowtail nigiri, ideal for fish lovers." },
                     "price": "38 MXN",
-                    "image": "assets/entradas/nigiri-jurel.webp"
+                    "image": "assets/entradas/nigiri-jurel.webp",
+                    "proteins": ["fish"],
+                    "photo": "assets/entradas/nigiri-jurel.webp"
                 },
                 {
                     "name": { "es": "Nigiri de Atún", "en": "Tuna Nigiri" },
                     "description": { "es": "Atún fresco sobre arroz de sushi.", "en": "Fresh tuna on sushi rice." },
                     "detailedDescription": { "es": "Nigiri premium de atún rojo fresco, suave y delicioso.", "en": "Premium fresh red tuna nigiri, soft and delicious." },
                     "price": "42 MXN",
-                    "image": "assets/entradas/nigiri-atun.webp"
+                    "image": "assets/entradas/nigiri-atun.webp",
+                    "proteins": ["tuna"],
+                    "photo": "assets/entradas/nigiri-atun.webp"
                 },
                 {
                     "name": { "es": "Nigiri de Callo", "en": "Scallop Nigiri" },
                     "description": { "es": "Callo fresco sobre arroz de sushi.", "en": "Fresh scallop on sushi rice." },
                     "detailedDescription": { "es": "Delicado nigiri de callo katarina fresco, con textura mantecosa.", "en": "Delicate fresh katarina scallop nigiri, with buttery texture." },
                     "price": "50 MXN",
-                    "image": "assets/entradas/nigiri-callo.webp"
+                    "image": "assets/entradas/nigiri-callo.webp",
+                    "proteins": ["scallop"],
+                    "photo": "assets/entradas/nigiri-callo.webp"
                 },
                 {
                     "name": { "es": "Nigiri de Camarón", "en": "Shrimp Nigiri" },
                     "description": { "es": "Camarón cocido sobre arroz de sushi.", "en": "Cooked shrimp on sushi rice." },
                     "detailedDescription": { "es": "Camarón perfectamente cocido, suave y dulce sobre arroz de sushi.", "en": "Perfectly cooked shrimp, soft and sweet on sushi rice." },
                     "price": "35 MXN",
-                    "image": "assets/entradas/nigiri-camaron.webp"
+                    "image": "assets/entradas/nigiri-camaron.webp",
+                    "proteins": ["shrimp"],
+                    "photo": "assets/entradas/nigiri-camaron.webp"
                 },
                 {
                     "name": { "es": "Nigiri de Masago", "en": "Masago Nigiri" },
                     "description": { "es": "Huevas de pescado sobre arroz de sushi.", "en": "Fish roe on sushi rice." },
                     "detailedDescription": { "es": "Explosión de sabor marino con huevas de masago sobre arroz.", "en": "Explosion of marine flavor with masago roe on rice." },
                     "price": "48 MXN",
-                    "image": "assets/entradas/nigiri-masago.webp"
+                    "image": "assets/entradas/nigiri-masago.webp",
+                    "proteins": ["fish"],
+                    "photo": "assets/entradas/nigiri-masago.webp"
                 },
                 {
                     "name": { "es": "Edamames Naturales", "en": "Natural Edamame" },
                     "description": { "es": "Naturales cocidos en agua y sal.", "en": "Boiled in water and salt." },
                     "detailedDescription": { "es": "Vainas de soya verde cocidas en agua con sal de mar, la entrada saludable perfecta.", "en": "Green soy pods boiled in water with sea salt, the perfect healthy appetizer." },
                     "price": "80 MXN",
-                    "image": "assets/entradas/edamames-naturales.webp"
+                    "image": "assets/entradas/edamames-naturales.webp",
+                    "proteins": ["vegetarian"],
+                    "photo": "assets/entradas/edamames-naturales.webp"
                 },
                 {
                     "name": { "es": "Edamames Ponzu", "en": "Ponzu Edamame" },
                     "description": { "es": "Salteados en ponzu, limón y togarashi.", "en": "Sautéed in ponzu, lemon and togarashi." },
                     "detailedDescription": { "es": "Edamames salteados con salsa ponzu cítrica, limón fresco y un toque de togarashi picante.", "en": "Sautéed edamame with citrus ponzu sauce, fresh lemon and a touch of spicy togarashi." },
                     "price": "95 MXN",
-                    "image": "assets/entradas/edamames-ponzu.webp"
+                    "image": "assets/entradas/edamames-ponzu.webp",
+                    "proteins": ["vegetarian"],
+                    "photo": "assets/entradas/edamames-ponzu.webp"
                 },
                 {
                     "name": { "es": "Edamames al Mojo de Ajo", "en": "Garlic Edamame" },
                     "description": { "es": "Salteados al mojo de ajo.", "en": "Sautéed in garlic sauce." },
                     "detailedDescription": { "es": "Edamames salteados con ajo dorado y mantequilla, un clásico irresistible.", "en": "Edamame sautéed with golden garlic and butter, an irresistible classic." },
                     "price": "95 MXN",
-                    "image": "assets/entradas/edamames-ajo.webp"
+                    "image": "assets/entradas/edamames-ajo.webp",
+                    "proteins": ["vegetarian"],
+                    "photo": "assets/entradas/edamames-ajo.webp"
                 },
                 {
                     "name": { "es": "Sashimi Serranito", "en": "Serranito Sashimi" },
                     "description": { "es": "Láminas de pesca del día en salsa serranito.", "en": "Catch of the day slices in serranito sauce." },
                     "detailedDescription": { "es": "Láminas de pesca del día en salsa serranito, finas rodajas de chile serrano, ajonjolí, togarashi, limón y perejil.", "en": "Catch of the day slices in serranito sauce, thin serrano chili slices, sesame, togarashi, lemon and parsley." },
                     "price": "185 MXN",
-                    "image": "assets/entradas/sashimi-serranito.webp"
+                    "image": "assets/entradas/sashimi-serranito.webp",
+                    "proteins": ["fish"],
+                    "photo": "assets/entradas/sashimi-serranito.webp"
                 },
                 {
                     "name": { "es": "Sashimi Bellavista", "en": "Bellavista Sashimi" },
                     "description": { "es": "Láminas de pescado, camarón fresco, pepino, cebolla morada.", "en": "Fish slices, fresh shrimp, cucumber, red onion." },
                     "detailedDescription": { "es": "Láminas de pescado, camarón fresco, pepino, cebolla morada en salsa serranito, finas rodajas de serrano, ajonjolí, togarashi, limón y perejil.", "en": "Fish slices, fresh shrimp, cucumber, red onion in serranito sauce, thin serrano slices, sesame, togarashi, lemon and parsley." },
                     "price": "195 MXN",
-                    "image": "assets/entradas/sashimi-bellavista.webp"
+                    "image": "assets/entradas/sashimi-bellavista.webp",
+                    "proteins": ["fish", "shrimp"],
+                    "photo": "assets/entradas/sashimi-bellavista.webp"
                 },
                 {
                     "name": { "es": "Sashimi Tataki", "en": "Tataki Sashimi" },
                     "description": { "es": "Láminas de pescado selladas en aceite de ajonjolí.", "en": "Fish slices seared in sesame oil." },
                     "detailedDescription": { "es": "Láminas de pescado en corte grueso selladas en aceite de ajonjolí, pepino, cebollín, masago, furikake, togarashi, perejil, sobre un espejo de salsa serranito y limón.", "en": "Thick-cut fish slices seared in sesame oil, cucumber, scallions, masago, furikake, togarashi, parsley, on a mirror of serranito sauce and lemon." },
                     "price": "200 MXN",
-                    "image": "assets/entradas/sashimi-tataki.webp"
+                    "image": "assets/entradas/sashimi-tataki.webp",
+                    "proteins": ["fish"],
+                    "photo": "assets/entradas/sashimi-tataki.webp"
                 },
                 {
                     "name": { "es": "Tostadas Wonton (3 pzas)", "en": "Wonton Tostadas (3 pcs)" },
                     "description": { "es": "Wonton frita con pesca del día en salsa spicy.", "en": "Fried wonton with catch of the day in spicy sauce." },
                     "detailedDescription": { "es": "Wonton frita, base de salsa de cilantro, pesca del día en salsa spicy, aguacate, salsa serranito, limón, cebolla frita, poro frito, ajonjolí, togarashi y perejil.", "en": "Fried wonton, cilantro sauce base, catch of the day in spicy sauce, avocado, serranito sauce, lemon, fried onion, fried leek, sesame, togarashi and parsley." },
                     "price": "140 MXN",
-                    "image": "assets/entradas/tostadas-wonton.webp"
+                    "image": "assets/entradas/tostadas-wonton.webp",
+                    "proteins": ["fish"],
+                    "photo": "assets/entradas/tostadas-wonton.webp"
                 },
                 {
                     "name": { "es": "Curricanes (10 pzas)", "en": "Curricanes (10 pcs)" },
                     "description": { "es": "Láminas de pesca del día, aguacate, kanikama spicy.", "en": "Catch of the day slices, avocado, spicy kanikama." },
                     "detailedDescription": { "es": "Láminas de pesca del día, aguacate, kanikama spicy, limón, salsa serranito, ajonjolí, togarashi, furikake, perejil, montado sobre salsa de cilantro y yuzu.", "en": "Catch of the day slices, avocado, spicy kanikama, lemon, serranito sauce, sesame, togarashi, furikake, parsley, mounted on cilantro and yuzu sauce." },
                     "price": "160 MXN",
-                    "image": "assets/entradas/curricanes.webp"
+                    "image": "assets/entradas/curricanes.webp",
+                    "proteins": ["fish", "crab"],
+                    "photo": "assets/entradas/curricanes.webp"
                 },
                 {
                     "name": { "es": "Gyosas (5 pzas)", "en": "Gyosas (5 pcs)" },
                     "description": { "es": "Wonton rellenas de puerco selladas con ponzu.", "en": "Wonton filled with pork sealed with ponzu." },
-                    "detailedDescription": { "es": "Wonton rellenas de puerco, selladas con ponzu y salsa serranito, ajonjol� y ceboll�n.", "en": "Wonton filled with pork, sealed with ponzu and serranito sauce, sesame and scallions." },
+                    "detailedDescription": { "es": "Wonton rellenas de puerco, selladas con ponzu y salsa serranito, ajonjolí y cebollín.", "en": "Wonton filled with pork, sealed with ponzu and serranito sauce, sesame and scallions." },
                     "price": "120 MXN",
-                    "image": "assets/entradas/gyosas.webp"
+                    "image": "assets/entradas/gyosas.webp",
+                    "proteins": ["pork"],
+                    "photo": "assets/entradas/gyosas.webp"
                 },
                 {
                     "name": { "es": "Chiles Rellenos (3 pzas)", "en": "Stuffed Peppers (3 pcs)" },
                     "description": { "es": "Chile caribes empanizados, rellenos a elegir.", "en": "Breaded caribe chili, filling of choice." },
-                    "detailedDescription": { "es": "Chile caribes empanizados, rellenos del ingrediente a elegir (tampico y camar�n o solo tampico), salsa cilantro, anguila, spicy, ajonjol�, furikake y perejil.", "en": "Breaded caribe chili, filled with choice of ingredient (tampico and shrimp or just tampico), cilantro sauce, eel, spicy, sesame, furikake and parsley." },
+                    "detailedDescription": { "es": "Chile caribes empanizados, rellenos del ingrediente a elegir (tampico y camarón o solo tampico), salsa cilantro, anguila, spicy, ajonjolí, furikake y perejil.", "en": "Breaded caribe chili, filled with choice of ingredient (tampico and shrimp or just tampico), cilantro sauce, eel, spicy, sesame, furikake and parsley." },
                     "price": "145 MXN",
-                    "image": "assets/entradas/chiles-rellenos.webp"
+                    "image": "assets/entradas/chiles-rellenos.webp",
+                    "proteins": ["shrimp", "crab"],
+                    "photo": "assets/entradas/chiles-rellenos.webp"
                 },
                 {
                     "name": { "es": "Pulpo Cata", "en": "Cata Octopus" },
-                    "description": { "es": "L�minas de pulpo frito salteado con ponzu.", "en": "Fried octopus slices saut�ed with ponzu." },
-                    "detailedDescription": { "es": "L�minas de pulpo frito en f�cula de ma�z, salteado con ponzu, salsa serranito, chile serrano y lim�n.", "en": "Fried octopus slices in cornstarch, saut�ed with ponzu, serranito sauce, serrano chili and lemon." },
+                    "description": { "es": "Láminas de pulpo frito salteado con ponzu.", "en": "Fried octopus slices sautéed with ponzu." },
+                    "detailedDescription": { "es": "Láminas de pulpo frito en fécula de maíz, salteado con ponzu, salsa serranito, chile serrano y limón.", "en": "Fried octopus slices in cornstarch, sautéed with ponzu, serranito sauce, serrano chili and lemon." },
                     "price": "175 MXN",
-                    "image": "assets/entradas/pulpo-cata.webp"
+                    "image": "assets/entradas/pulpo-cata.webp",
+                    "proteins": ["octopus"],
+                    "photo": "assets/entradas/pulpo-cata.webp"
                 },
                 {
                     "name": { "es": "Quijadas de Pescado (2 pzas)", "en": "Fish Jaws (2 pcs)" },
-                    "description": { "es": "Quijadas de pesca del d�a fritas.", "en": "Fried catch of the day jaws." },
-                    "detailedDescription": { "es": "Quijadas de pesca del d�a fritas con harina preparada, montadas con una salsa agridulce, ajonjol� y perejil.", "en": "Fried catch of the day jaws with prepared flour, mounted with sweet and sour sauce, sesame and parsley." },
+                    "description": { "es": "Quijadas de pesca del día fritas.", "en": "Fried catch of the day jaws." },
+                    "detailedDescription": { "es": "Quijadas de pesca del día fritas con harina preparada, montadas con una salsa agridulce, ajonjolí y perejil.", "en": "Fried catch of the day jaws with prepared flour, mounted with sweet and sour sauce, sesame and parsley." },
                     "price": "165 MXN",
-                    "image": "assets/entradas/quijadas-pescado.webp"
+                    "image": "assets/entradas/quijadas-pescado.webp",
+                    "proteins": ["fish"],
+                    "photo": "assets/entradas/quijadas-pescado.webp"
                 },
                 {
                     "name": { "es": "Camarones Roca (12 pzas)", "en": "Rock Shrimp (12 pcs)" },
                     "description": { "es": "Camarones fritos en tempura con aderezo spicy.", "en": "Fried shrimp in tempura with spicy dressing." },
-                    "detailedDescription": { "es": "Camarones fritos en tempura preparada, con aderezo spicy, anguila, ceboll�n, ajonjol� y finas rodajas de naranja.", "en": "Fried shrimp in prepared tempura, with spicy dressing, eel, scallions, sesame and thin orange slices." },
+                    "detailedDescription": { "es": "Camarones fritos en tempura preparada, con aderezo spicy, anguila, cebollín, ajonjolí y finas rodajas de naranja.", "en": "Fried shrimp in prepared tempura, with spicy dressing, eel, scallions, sesame and thin orange slices." },
                     "price": "190 MXN",
-                    "image": "assets/entradas/camarones-roca.webp"
+                    "image": "assets/entradas/camarones-roca.webp",
+                    "proteins": ["shrimp"],
+                    "photo": "assets/entradas/camarones-roca.webp"
                 },
                 {
                     "name": { "es": "Verduras Tempura", "en": "Tempura Vegetables" },
                     "description": { "es": "Verduras en tempura preparada con salsas.", "en": "Vegetables in prepared tempura with sauces." },
-                    "detailedDescription": { "es": "Coliflor, br�coli, zanahoria, calabaza, camotes, berenjena en tempura preparada, anguila, spicy mayo, cilantro, ajonjol� y perejil.", "en": "Cauliflower, broccoli, carrot, squash, sweet potatoes, eggplant in prepared tempura, eel, spicy mayo, cilantro, sesame and parsley." },
+                    "detailedDescription": { "es": "Coliflor, brócoli, zanahoria, calabaza, camotes, berenjena en tempura preparada, anguila, spicy mayo, cilantro, ajonjolí y perejil.", "en": "Cauliflower, broccoli, carrot, squash, sweet potatoes, eggplant in prepared tempura, eel, spicy mayo, cilantro, sesame and parsley." },
                     "price": "140 MXN",
-                    "image": "assets/entradas/verduras-tempura.webp"
+                    "image": "assets/entradas/verduras-tempura.webp",
+                    "proteins": ["vegetarian"],
+                    "photo": "assets/entradas/verduras-tempura.webp"
                 }
             ]
         },
@@ -168,21 +210,27 @@
                     "description": { "es": "Pasta udon, miso, tofu, guacame, huevo marinado.", "en": "Udon pasta, miso, tofu, seaweed, marinated egg." },
                     "detailedDescription": { "es": "Pasta udon, pasta miso, aceite de ajonjolí, aceite rayu, hondashi, tofu, guacame, huevo marinado, hongo shitake, cebollín, ajonjolí y proteína a elegir (res, pollo, camarón, cerdo, mixto).", "en": "Udon pasta, miso paste, sesame oil, rayu oil, hondashi, tofu, seaweed, marinated egg, shitake mushroom, scallions, sesame and choice of protein (beef, chicken, shrimp, pork, mixed)." },
                     "price": "165 MXN",
-                    "image": "assets/sopas/sopa-udon.webp"
+                    "image": "assets/sopas/sopa-udon.webp",
+                    "proteins": ["beef", "chicken", "shrimp", "pork"],
+                    "photo": "assets/sopas/sopa-udon.webp"
                 },
                 {
                     "name": { "es": "Sopa Miso", "en": "Miso Soup" },
                     "description": { "es": "Pasta miso, tofu, guacame, hongo shitake.", "en": "Miso paste, tofu, seaweed, shitake mushroom." },
                     "detailedDescription": { "es": "Pasta miso, aceite de ajonjolí, aceite rayu, hondashi, tofu, guacame, hongo shitake, cebollín, ajonjolí y proteína a elegir (res, pollo, camarón, cerdo, mixto).", "en": "Miso paste, sesame oil, rayu oil, hondashi, tofu, seaweed, shitake mushroom, scallions, sesame and choice of protein (beef, chicken, shrimp, pork, mixed)." },
                     "price": "150 MXN",
-                    "image": "assets/sopas/sopa-miso.webp"
+                    "image": "assets/sopas/sopa-miso.webp",
+                    "proteins": ["beef", "chicken", "shrimp", "pork"],
+                    "photo": "assets/sopas/sopa-miso.webp"
                 },
                 {
                     "name": { "es": "Ramen", "en": "Ramen" },
                     "description": { "es": "Pasta ramen, miso, tofu, naruto, huevo marinado.", "en": "Ramen pasta, miso, tofu, naruto, marinated egg." },
                     "detailedDescription": { "es": "Pasta ramen, pasta miso, aceite de ajonjolí, aceite rayu, hondashi, tofu, guacame, naruto, huevo marinado, hongo shitake, alga nori, cebollín, ajonjolí y proteína a elegir (res, pollo, camarón, cerdo, mixto).", "en": "Ramen pasta, miso paste, sesame oil, rayu oil, hondashi, tofu, seaweed, naruto, marinated egg, shitake mushroom, nori seaweed, scallions, sesame and choice of protein (beef, chicken, shrimp, pork, mixed)." },
                     "price": "180 MXN",
-                    "image": "assets/sopas/ramen.webp"
+                    "image": "assets/sopas/ramen.webp",
+                    "proteins": ["beef", "chicken", "shrimp", "pork"],
+                    "photo": "assets/sopas/ramen.webp"
                 }
             ]
         },
@@ -195,28 +243,36 @@
                     "description": { "es": "Base de arroz con proteína, tampico, aguacate, philadelphia.", "en": "Rice base with protein, tampico, avocado, philadelphia." },
                     "detailedDescription": { "es": "Base de arroz con proteína a elegir, tampico, aguacate, philadelphia, anguila, spicy, ajonjolí (res, pollo, camarón, mixto).", "en": "Rice base with choice of protein, tampico, avocado, philadelphia, eel, spicy, sesame (beef, chicken, shrimp, mixed)." },
                     "price": "170 MXN",
-                    "image": "assets/arroces/gohan.webp"
+                    "image": "assets/arroces/gohan.webp",
+                    "proteins": ["beef", "chicken", "shrimp"],
+                    "photo": "assets/arroces/gohan.webp"
                 },
                 {
                     "name": { "es": "Gohan del Chef", "en": "Chef's Gohan" },
                     "description": { "es": "Arroz blanco, pulpo frito, kanikama spicy, philadelphia.", "en": "White rice, fried octopus, spicy kanikama, philadelphia." },
                     "detailedDescription": { "es": "Base de arroz blanco, pulpo frito en fécula de maíz, kanikama spicy, philadelphia, aguacate, anguila, ajonjolí y perejil.", "en": "White rice base, fried octopus in cornstarch, spicy kanikama, philadelphia, avocado, eel, sesame and parsley." },
                     "price": "190 MXN",
-                    "image": "assets/arroces/gohan-chef.webp"
+                    "image": "assets/arroces/gohan-chef.webp",
+                    "proteins": ["octopus", "crab"],
+                    "photo": "assets/arroces/gohan-chef.webp"
                 },
                 {
                     "name": { "es": "Yakimeshi", "en": "Yakimeshi" },
                     "description": { "es": "Arroz frito, zanahoria, calabaza y proteína a elegir.", "en": "Fried rice, carrot, squash and choice of protein." },
                     "detailedDescription": { "es": "Base de arroz frito, zanahoria, calabaza y proteína a elegir. Con philadelphia, anguila, spicy, ajonjolí, perejil (res, pollo, camarón, mixto).", "en": "Fried rice base, carrot, squash and choice of protein. With philadelphia, eel, spicy, sesame, parsley (beef, chicken, shrimp, mixed)." },
                     "price": "165 MXN",
-                    "image": "assets/arroces/yakimeshi.webp"
+                    "image": "assets/arroces/yakimeshi.webp",
+                    "proteins": ["beef", "chicken", "shrimp"],
+                    "photo": "assets/arroces/yakimeshi.webp"
                 },
                 {
                     "name": { "es": "Poke Rice", "en": "Poke Rice" },
                     "description": { "es": "Base de arroz, pesca del día, mango, kanikama, philadelphia.", "en": "Rice base, catch of the day, mango, kanikama, philadelphia." },
                     "detailedDescription": { "es": "Base de arroz, pesca del día, mango, kanikama, philadelphia, aguacate, edamames, togarashi, ajonjolí, perejil.", "en": "Rice base, catch of the day, mango, kanikama, philadelphia, avocado, edamame, togarashi, sesame, parsley." },
                     "price": "185 MXN",
-                    "image": "assets/arroces/poke-rice.webp"
+                    "image": "assets/arroces/poke-rice.webp",
+                    "proteins": ["fish", "crab"],
+                    "photo": "assets/arroces/poke-rice.webp"
                 }
             ]
         },
@@ -229,56 +285,72 @@
                     "description": { "es": "Arroz, alga nori, pepino, aguacate, philadelphia, camarón cocido.", "en": "Rice, nori seaweed, cucumber, avocado, philadelphia, cooked shrimp." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, aguacate, philadelphia, camarón cocido y ajonjolí.", "en": "Rice roll, nori seaweed, cucumber, avocado, philadelphia, cooked shrimp and sesame." },
                     "price": "150 MXN",
-                    "image": "assets/rollosnaturales/california.webp"
+                    "image": "assets/rollosnaturales/california.webp",
+                    "proteins": ["shrimp"],
+                    "photo": "assets/rollosnaturales/california.webp"
                 },
                 {
                     "name": { "es": "Spicy Roll", "en": "Spicy Roll" },
                     "description": { "es": "Arroz, alga nori, pepino, aguacate, kanikama, pesca del día spicy.", "en": "Rice, nori seaweed, cucumber, avocado, kanikama, spicy catch of the day." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, aguacate, kanikama, topping de pesca del día en aderezo spicy, láminas de serrano, togarashi, perejil, montado sobre un espejo de aderezo de cilantro.", "en": "Rice roll, nori seaweed, cucumber, avocado, kanikama, catch of the day topping in spicy dressing, serrano slices, togarashi, parsley, mounted on cilantro dressing mirror." },
                     "price": "165 MXN",
-                    "image": "assets/rollosnaturales/spicy-roll.webp"
+                    "image": "assets/rollosnaturales/spicy-roll.webp",
+                    "proteins": ["fish", "crab"],
+                    "photo": "assets/rollosnaturales/spicy-roll.webp"
                 },
                 {
                     "name": { "es": "Arcoíris", "en": "Rainbow" },
                     "description": { "es": "Arroz, alga nori, pepino, surimi, philadelphia, forrado de salmón y pescado.", "en": "Rice, nori seaweed, cucumber, surimi, philadelphia, wrapped with salmon and fish." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, surimi y philadelphia, forrado de salmón, aguacate y pesca del día montado sobre, salsa ponzu, togarashi y cebollín.", "en": "Rice roll, nori seaweed, cucumber, surimi and philadelphia, wrapped with salmon, avocado and catch of the day mounted on ponzu sauce, togarashi and scallions." },
                     "price": "185 MXN",
-                    "image": "assets/rollosnaturales/arcoiris.webp"
+                    "image": "assets/rollosnaturales/arcoiris.webp",
+                    "proteins": ["salmon", "fish", "crab"],
+                    "photo": "assets/rollosnaturales/arcoiris.webp"
                 },
                 {
                     "name": { "es": "Alaska", "en": "Alaska" },
                     "description": { "es": "Arroz, alga nori, pepino, aguacate, salmón, forrado de philadelphia.", "en": "Rice, nori seaweed, cucumber, avocado, salmon, wrapped with philadelphia." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, aguacate, salmón, forrado de philadelphia, ajonjolí, togarashi, cebollín, montado sobre salsa ponzu.", "en": "Rice roll, nori seaweed, cucumber, avocado, salmon, wrapped with philadelphia, sesame, togarashi, scallions, mounted on ponzu sauce." },
                     "price": "175 MXN",
-                    "image": "assets/rollosnaturales/alaska.webp"
+                    "image": "assets/rollosnaturales/alaska.webp",
+                    "proteins": ["salmon"],
+                    "photo": "assets/rollosnaturales/alaska.webp"
                 },
                 {
                     "name": { "es": "Salmon Roll", "en": "Salmon Roll" },
                     "description": { "es": "Arroz, alga nori, philadelphia, pepino, aguacate, kanikama, topping de salmón.", "en": "Rice, nori seaweed, philadelphia, cucumber, avocado, kanikama, salmon topping." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, pepino, aguacate kanikama, montado con topping de salmón en spicy mayo flameado con salsa de anguila, togarashi, ajonjolí, perejil, sobre un espejo de salsa de cilantro.", "en": "Rice roll, nori seaweed, philadelphia, cucumber, avocado kanikama, mounted with salmon topping in spicy mayo flamed with eel sauce, togarashi, sesame, parsley, on a cilantro sauce mirror." },
                     "price": "190 MXN",
-                    "image": "assets/rollosnaturales/salmon-roll.webp"
+                    "image": "assets/rollosnaturales/salmon-roll.webp",
+                    "proteins": ["salmon", "crab"],
+                    "photo": "assets/rollosnaturales/salmon-roll.webp"
                 },
                 {
                     "name": { "es": "Avocado Roll", "en": "Avocado Roll" },
                     "description": { "es": "Arroz, alga nori, philadelphia, pepino, kanikama, forrado de aguacate.", "en": "Rice, nori seaweed, philadelphia, cucumber, kanikama, wrapped with avocado." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, pepino, kanikama, forrado de aguacate con topping de camarón spicy mayo, flameado con salsa de anguila, salsa de cilantro, togarashi, ajonjolí, perejil, montado sobre un espejo de aderezo yuzu.", "en": "Rice roll, nori seaweed, philadelphia, cucumber, kanikama, wrapped with avocado with shrimp topping spicy mayo, flamed with eel sauce, cilantro sauce, togarashi, sesame, parsley, mounted on yuzu dressing mirror." },
                     "price": "180 MXN",
-                    "image": "assets/rollosnaturales/avocado-roll.webp"
+                    "image": "assets/rollosnaturales/avocado-roll.webp",
+                    "proteins": ["shrimp", "crab"],
+                    "photo": "assets/rollosnaturales/avocado-roll.webp"
                 },
                 {
                     "name": { "es": "Vegano Roll", "en": "Vegan Roll" },
                     "description": { "es": "Arroz, alga nori, pepino, aguacate, zanahoria, topping de mango y kiwi.", "en": "Rice, nori seaweed, cucumber, avocado, carrot, mango and kiwi topping." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, aguacate, zanahoria, con topping de mango, kiwi en salsa serranito, limón, cilantro, ajonjolí y perejil.", "en": "Rice roll, nori seaweed, cucumber, avocado, carrot, with mango topping, kiwi in serranito sauce, lemon, cilantro, sesame and parsley." },
                     "price": "145 MXN",
-                    "image": "assets/rollosnaturales/vegano-roll.webp"
+                    "image": "assets/rollosnaturales/vegano-roll.webp",
+                    "proteins": ["vegetarian"],
+                    "photo": "assets/rollosnaturales/vegano-roll.webp"
                 },
                 {
                     "name": { "es": "Ebi Roll", "en": "Ebi Roll" },
                     "description": { "es": "Arroz, alga nori, philadelphia, pepino, kanikama empanizado, forrado de aguacate y camarón.", "en": "Rice, nori seaweed, philadelphia, cucumber, breaded kanikama, wrapped with avocado and shrimp." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, pepino y kanikama empanizado. Forrado de aguacate y camarón cocido, montado sobre un espejo de aderezo de cilantro, con salsa de anguila, aderezo spicy mayo, cebollín, ajonjolí.", "en": "Rice roll, nori seaweed, philadelphia, cucumber and breaded kanikama. Wrapped with avocado and cooked shrimp, mounted on a cilantro dressing mirror, with eel sauce, spicy mayo dressing, scallions, sesame." },
                     "price": "170 MXN",
-                    "image": "assets/rollosnaturales/ebi-roll.webp"
+                    "image": "assets/rollosnaturales/ebi-roll.webp",
+                    "proteins": ["shrimp", "crab"],
+                    "photo": "assets/rollosnaturales/ebi-roll.webp"
                 }
             ]
         },
@@ -291,49 +363,63 @@
                     "description": { "es": "Rollo empanizado de california tradicional.", "en": "Breaded traditional california roll." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, pepino, aguacate, camarón cocido y ajonjolí.", "en": "Rice roll, nori seaweed, philadelphia, cucumber, avocado, cooked shrimp and sesame." },
                     "price": "170 MXN",
-                    "image": "assets/rollosempanizados/california-crunch.webp"
+                    "image": "assets/rollosempanizados/california-crunch.webp",
+                    "proteins": ["shrimp"],
+                    "photo": "assets/rollosempanizados/california-crunch.webp"
                 },
                 {
                     "name": { "es": "Cielo, Mar y Tierra", "en": "Sky, Sea and Land" },
                     "description": { "es": "Rollo empanizado con res, pollo y camarón.", "en": "Breaded roll with beef, chicken and shrimp." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, aguacate, res, pollo y camarón.", "en": "Rice roll, nori seaweed, philadelphia, avocado, beef, chicken and shrimp." },
                     "price": "185 MXN",
-                    "image": "assets/rollosempanizados/cielo-mar-tierra.webp"
+                    "image": "assets/rollosempanizados/cielo-mar-tierra.webp",
+                    "proteins": ["beef", "chicken", "shrimp"],
+                    "photo": "assets/rollosempanizados/cielo-mar-tierra.webp"
                 },
                 {
                     "name": { "es": "Crispy Chicken", "en": "Crispy Chicken" },
                     "description": { "es": "Rollo empanizado con pollo crispy, salsa thai y anguila.", "en": "Breaded roll with crispy chicken, thai sauce and eel." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, aguacate, con topping de pollo crispy con salsa thai y anguila, ajonjolí y perejil, montado sobre un espejo de aderezo spicy mayo.", "en": "Rice roll, nori seaweed, philadelphia, avocado, with crispy chicken topping with thai sauce and eel, sesame and parsley, mounted on spicy mayo dressing mirror." },
                     "price": "175 MXN",
-                    "image": "assets/rollosempanizados/crispy-chicken.webp"
+                    "image": "assets/rollosempanizados/crispy-chicken.webp",
+                    "proteins": ["chicken"],
+                    "photo": "assets/rollosempanizados/crispy-chicken.webp"
                 },
                 {
                     "name": { "es": "Ebi Cheese", "en": "Ebi Cheese" },
                     "description": { "es": "Rollo empanizado con camarón cocido, queso flameado.", "en": "Breaded roll with cooked shrimp, flamed cheese." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, aguacate y kanikama, con topping de camarón cocido en salsa sirracha, anguila y furikake, montado sobre un espejo de aderezo spicy mayo y con láminas de queso flameadas.", "en": "Rice roll, nori seaweed, philadelphia, avocado and kanikama, with cooked shrimp topping in sirracha sauce, eel and furikake, mounted on spicy mayo dressing mirror and with flamed cheese slices." },
                     "price": "195 MXN",
-                    "image": "assets/rollosempanizados/ebi-cheese.webp"
+                    "image": "assets/rollosempanizados/ebi-cheese.webp",
+                    "proteins": ["shrimp", "crab"],
+                    "photo": "assets/rollosempanizados/ebi-cheese.webp"
                 },
                 {
                     "name": { "es": "Oita Cheese", "en": "Oita Cheese" },
                     "description": { "es": "Rollo empanizado en tempura con queso y cangrejo flameado.", "en": "Breaded roll in tempura with cheese and flamed crab." },
                     "detailedDescription": { "es": "Rollo de arroz en tempura, alga nori, philadelphia, aguacate, camarón cocido, con topping de queso y cangrejo en spicy mayo, flameados y montados sobre un espejo de aderezo de cilantro y salsa de Jamaica, togarashi, furikake, perejil.", "en": "Tempura rice roll, nori seaweed, philadelphia, avocado, cooked shrimp, with cheese and crab topping in spicy mayo, flamed and mounted on cilantro dressing mirror and Jamaica sauce, togarashi, furikake, parsley." },
                     "price": "210 MXN",
-                    "image": "assets/rollosempanizados/oita-cheese.webp"
+                    "image": "assets/rollosempanizados/oita-cheese.webp",
+                    "proteins": ["shrimp", "crab"],
+                    "photo": "assets/rollosempanizados/oita-cheese.webp"
                 },
                 {
                     "name": { "es": "Kani Roll", "en": "Kani Roll" },
                     "description": { "es": "Rollo empanizado con kanikama frito en salsa sirracha.", "en": "Breaded roll with fried kanikama in sirracha sauce." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, aguacate y camarón cocido, con topping de kanikama frito en salsa de sirracha y anguila, montado sobre un espejo de aderezo spicy mayo, ajonjolí y perejil.", "en": "Rice roll, nori seaweed, philadelphia, avocado and cooked shrimp, with fried kanikama topping in sirracha sauce and eel, mounted on spicy mayo dressing mirror, sesame and parsley." },
                     "price": "190 MXN",
-                    "image": "assets/rollosempanizados/kani-roll.webp"
+                    "image": "assets/rollosempanizados/kani-roll.webp",
+                    "proteins": ["shrimp", "crab"],
+                    "photo": "assets/rollosempanizados/kani-roll.webp"
                 },
                 {
                     "name": { "es": "Maxicanito Roll", "en": "Maxicanito Roll" },
                     "description": { "es": "Rollo empanizado con chiles fritos, res spicy y salsa de chile de árbol.", "en": "Breaded roll with fried chilis, spicy beef and árbol chili sauce." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, aguacate, chile jalapeño y caribe fritos, camarón cocido, con topping de res spicy montado sobre un espejo de salsa de chile de árbol, togarashi, furikake, ajonjolí y perejil.", "en": "Rice roll, nori seaweed, philadelphia, avocado, jalapeño and caribe chili fried, cooked shrimp, with spicy beef topping mounted on árbol chili sauce mirror, togarashi, furikake, sesame and parsley." },
                     "price": "200 MXN",
-                    "image": "assets/rollosempanizados/maxicanito-roll.webp"
+                    "image": "assets/rollosempanizados/maxicanito-roll.webp",
+                    "proteins": ["beef", "shrimp"],
+                    "photo": "assets/rollosempanizados/maxicanito-roll.webp"
                 }
             ]
         },
@@ -346,112 +432,144 @@
                     "description": { "es": "Rollo en hoja de arroz con pesca del día y mango.", "en": "Rice paper roll with catch of the day and mango." },
                     "detailedDescription": { "es": "Rollo en hoja de arroz, sobre láminas de pesca del día y mango, relleno de arroz, kanikama spicy, pepino, aguacate, philadelphia, montado sobre salsa ponzu, un toque de salsa serranito, togarashi, ajonjolí, furikake y perejil.", "en": "Rice paper roll, on catch of the day and mango slices, filled with rice, spicy kanikama, cucumber, avocado, philadelphia, mounted on ponzu sauce, a touch of serranito sauce, togarashi, sesame, furikake and parsley." },
                     "price": "215 MXN",
-                    "image": "assets/rollosespeciales/sushi-poke.webp"
+                    "image": "assets/rollosespeciales/sushi-poke.webp",
+                    "proteins": ["fish", "crab"],
+                    "photo": "assets/rollosespeciales/sushi-poke.webp"
                 },
                 {
                     "name": { "es": "Chicken Hot", "en": "Chicken Hot" },
                     "description": { "es": "Rollo en hoja de soya con pollo al mojo de ajo.", "en": "Soy paper roll with garlic chicken." },
                     "detailedDescription": { "es": "Rollo de arroz en hoja de soya, pepino, aguacate, philadelphia, kanikama, con topping de pollo al mojo de ajo, sobre un espejo de salsa thai, ajonjolí y perejil.", "en": "Soy paper rice roll, cucumber, avocado, philadelphia, kanikama, with garlic chicken topping, on a thai sauce mirror, sesame and parsley." },
                     "price": "190 MXN",
-                    "image": "assets/rollosespeciales/chicken-hot.webp"
+                    "image": "assets/rollosespeciales/chicken-hot.webp",
+                    "proteins": ["chicken", "crab"],
+                    "photo": "assets/rollosespeciales/chicken-hot.webp"
                 },
                 {
                     "name": { "es": "Koi Roll", "en": "Koi Roll" },
                     "description": { "es": "Arroz, alga nori, pepino, aguacate, jengibre, kanikama, camarón tempura, pescado sellado.", "en": "Rice, nori seaweed, cucumber, avocado, ginger, kanikama, tempura shrimp, seared fish." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, aguacate, jengibre, kanikama, camarón tempura, con topping de cubos de pescado sellado en aceite de ajonjolí, montado sobre un espejo de salsa serranito, togarashi, furikake, perejil y masago.", "en": "Rice roll, nori seaweed, cucumber, avocado, ginger, kanikama, tempura shrimp, with seared fish cubes topping in sesame oil, mounted on serranito sauce mirror, togarashi, furikake, parsley and masago." },
                     "price": "220 MXN",
-                    "image": "assets/rollosespeciales/koi-roll.webp"
+                    "image": "assets/rollosespeciales/koi-roll.webp",
+                    "proteins": ["fish", "shrimp", "crab"],
+                    "photo": "assets/rollosespeciales/koi-roll.webp"
                 },
                 {
                     "name": { "es": "Sabi Roll", "en": "Sabi Roll" },
                     "description": { "es": "Arroz, alga nori, pepino aguacate, chile caribe, camarón tempura, forrado con pescado sellado.", "en": "Rice, nori seaweed, cucumber avocado, caribe chili, tempura shrimp, wrapped with seared fish." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino aguacate, chile caribe, camarón tempura, forrado con láminas de pescado sellado en aceite de ajonjolí, hojuelas de ajo frito, salsa thai y yuzu, montado sobre un espejo de salsa serranito, togarashi, furikake y cebollín.", "en": "Rice roll, nori seaweed, cucumber avocado, caribe chili, tempura shrimp, wrapped with seared fish slices in sesame oil, fried garlic flakes, thai and yuzu sauce, mounted on serranito sauce mirror, togarashi, furikake and scallions." },
                     "price": "230 MXN",
-                    "image": "assets/rollosespeciales/sabi-roll.webp"
+                    "image": "assets/rollosespeciales/sabi-roll.webp",
+                    "proteins": ["fish", "shrimp"],
+                    "photo": "assets/rollosespeciales/sabi-roll.webp"
                 },
                 {
                     "name": { "es": "Teri Hala", "en": "Teri Hala" },
                     "description": { "es": "Rollo en tempura con res salteada con jalapeño y queso flameado.", "en": "Tempura roll with sautéed beef with jalapeño and flamed cheese." },
                     "detailedDescription": { "es": "Rollo de arroz en tempura, alga nori, pepino, aguacate, camarón cocido, con topping de res salteados con jalapeño en salsa thai, ajo, anguila y queso philadelphia flameado, montados sobre un espejo de aderezo yuzu, ajonjolí y perejil.", "en": "Tempura rice roll, nori seaweed, cucumber, avocado, cooked shrimp, with sautéed beef topping with jalapeño in thai sauce, garlic, eel and flamed philadelphia cheese, mounted on yuzu dressing mirror, sesame and parsley." },
                     "price": "225 MXN",
-                    "image": "assets/rollosespeciales/teri-hala.webp"
+                    "image": "assets/rollosespeciales/teri-hala.webp",
+                    "proteins": ["beef", "shrimp"],
+                    "photo": "assets/rollosespeciales/teri-hala.webp"
                 },
                 {
                     "name": { "es": "Lemon Roll", "en": "Lemon Roll" },
                     "description": { "es": "Arroz, hoja de soya, philadelphia, pepino, aguacate, camarón tempura, forrado con pescado y limón.", "en": "Rice, soy paper, philadelphia, cucumber, avocado, tempura shrimp, wrapped with fish and lemon." },
                     "detailedDescription": { "es": "Rollo de arroz, hoja de soya, philadelphia, pepino, aguacate, camarón tempura, forrado con láminas de pesca del día y limón real, finas rodajas de chile serrano, aderezo yuzu, salsa serranito, togarashi y perejil, montado sobre aderezo spicy.", "en": "Rice roll, soy paper, philadelphia, cucumber, avocado, tempura shrimp, wrapped with catch of the day and real lemon slices, thin serrano chili slices, yuzu dressing, serranito sauce, togarashi and parsley, mounted on spicy dressing." },
                     "price": "235 MXN",
-                    "image": "assets/rollosespeciales/lemon-roll.webp"
+                    "image": "assets/rollosespeciales/lemon-roll.webp",
+                    "proteins": ["fish", "shrimp"],
+                    "photo": "assets/rollosespeciales/lemon-roll.webp"
                 },
                 {
                     "name": { "es": "Mangosh", "en": "Mangosh" },
                     "description": { "es": "Arroz, hoja de soya, pepino, aguacate, kanikama, camarón tempura, forrado de mango.", "en": "Rice, soy paper, cucumber, avocado, kanikama, tempura shrimp, wrapped with mango." },
                     "detailedDescription": { "es": "Rollo de arroz, hoja de soya, pepino, aguacate, kanikama, camarón tempura, forrado de mango con topping de pesca del día en salsa spicy, finas rodajas de serrano, salsa serranito, yuzu, furikake, ajonjolí y perejil, montado sobre salsa de cilantro.", "en": "Rice roll, soy paper, cucumber, avocado, kanikama, tempura shrimp, wrapped with mango with catch of the day topping in spicy sauce, thin serrano slices, serranito sauce, yuzu, furikake, sesame and parsley, mounted on cilantro sauce." },
                     "price": "230 MXN",
-                    "image": "assets/rollosespeciales/mangosh.webp"
+                    "image": "assets/rollosespeciales/mangosh.webp",
+                    "proteins": ["fish", "shrimp", "crab"],
+                    "photo": "assets/rollosespeciales/mangosh.webp"
                 },
                 {
                     "name": { "es": "Kashi Roll", "en": "Kashi Roll" },
                     "description": { "es": "Arroz, alga nori, pepino, aguacate, kanikama, pulpo tempura, topping de callo spicy.", "en": "Rice, nori seaweed, cucumber, avocado, kanikama, octopus tempura, spicy scallop topping." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, aguacate, kanikama, pulpo tempura, con topping de callo katarina spicy, masago, sobre un espejo de salsa serranito.", "en": "Rice roll, nori seaweed, cucumber, avocado, kanikama, octopus tempura, with spicy katarina scallop topping, masago, on a serranito sauce mirror." },
                     "price": "240 MXN",
-                    "image": "assets/rollosespeciales/kashi-roll.webp"
+                    "image": "assets/rollosespeciales/kashi-roll.webp",
+                    "proteins": ["octopus", "scallop", "crab"],
+                    "photo": "assets/rollosespeciales/kashi-roll.webp"
                 },
                 {
                     "name": { "es": "Fura Mak", "en": "Fura Mak" },
                     "description": { "es": "Rollo en tempura con pulpo y pesca del día, topping de camarón fresco y callo.", "en": "Tempura roll with octopus and catch of the day, fresh shrimp and scallop topping." },
                     "detailedDescription": { "es": "Rollo de arroz en tempura, alga nori, pepino, aguacate, pulpo y pesca del día, con topping de camarón fresco y callo en salsa ponzu y chile chiltepín, ajonjolí, togarashi y perejil.", "en": "Tempura rice roll, nori seaweed, cucumber, avocado, octopus and catch of the day, with fresh shrimp and scallop topping in ponzu sauce and chiltepín chili, sesame, togarashi and parsley." },
                     "price": "250 MXN",
-                    "image": "assets/rollosespeciales/fura-mak.webp"
+                    "image": "assets/rollosespeciales/fura-mak.webp",
+                    "proteins": ["octopus", "fish", "shrimp", "scallop"],
+                    "photo": "assets/rollosespeciales/fura-mak.webp"
                 },
                 {
                     "name": { "es": "Tropical Roll", "en": "Tropical Roll" },
                     "description": { "es": "Arroz, hoja de soya, pepino, aguacate, kanikama, mango, camarón tempura, topping de pescado y kiwi.", "en": "Rice, soy paper, cucumber, avocado, kanikama, mango, tempura shrimp, fish and kiwi topping." },
                     "detailedDescription": { "es": "Rollo de arroz, hoja de soya, pepino, aguacate, kanikama, mango, camarón tempura, con topping de pesca del día y kiwi en salsa serranito, limón y cilantro, sobre un espejo de aderezo yuzu.", "en": "Rice roll, soy paper, cucumber, avocado, kanikama, mango, tempura shrimp, with catch of the day and kiwi topping in serranito sauce, lemon and cilantro, on a yuzu dressing mirror." },
                     "price": "225 MXN",
-                    "image": "assets/rollosespeciales/tropical-roll.webp"
+                    "image": "assets/rollosespeciales/tropical-roll.webp",
+                    "proteins": ["fish", "shrimp", "crab"],
+                    "photo": "assets/rollosespeciales/tropical-roll.webp"
                 },
                 {
                     "name": { "es": "Tashi Roll", "en": "Tashi Roll" },
                     "description": { "es": "Arroz, alga nori, pepino, aguacate, kanikama spicy, camarón tempura, forrado de pescado.", "en": "Rice, nori seaweed, cucumber, avocado, spicy kanikama, tempura shrimp, wrapped with fish." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, aguacate, kanikama spicy, camarón tempura, forrado de pesca del día, finas rodajas de chile serrano, montado sobre salsa serranito, limón, ajonjolí y perejil.", "en": "Rice roll, nori seaweed, cucumber, avocado, spicy kanikama, tempura shrimp, wrapped with catch of the day, thin serrano chili slices, mounted on serranito sauce, lemon, sesame and parsley." },
                     "price": "220 MXN",
-                    "image": "assets/rollosespeciales/tashi-roll.webp"
+                    "image": "assets/rollosespeciales/tashi-roll.webp",
+                    "proteins": ["fish", "shrimp", "crab"],
+                    "photo": "assets/rollosespeciales/tashi-roll.webp"
                 },
                 {
                     "name": { "es": "Gloria", "en": "Gloria" },
                     "description": { "es": "Arroz, hoja de soya, pepino, aguacate, jengibre, kanikama spicy, camarón tempura, forrado de pescado.", "en": "Rice, soy paper, cucumber, avocado, ginger, spicy kanikama, tempura shrimp, wrapped with fish." },
                     "detailedDescription": { "es": "Rollo de arroz, hoja de soya, pepino, aguacate, jengibre, kanikama spicy, camarón tempura, forrado de pesca del día con topping de pescado en salsa thai, furikake, limón, anguila, sirracha, montado con finas láminas de limón verde y amarillo, chile serrano y cebolla morada, ajonjolí, togarashi y perejil.", "en": "Rice roll, soy paper, cucumber, avocado, ginger, spicy kanikama, tempura shrimp, wrapped with catch of the day with fish topping in thai sauce, furikake, lemon, eel, sirracha, mounted with thin green and yellow lemon slices, serrano chili and red onion, sesame, togarashi and parsley." },
                     "price": "245 MXN",
-                    "image": "assets/rollosespeciales/gloria.webp"
+                    "image": "assets/rollosespeciales/gloria.webp",
+                    "proteins": ["fish", "shrimp", "crab"],
+                    "photo": "assets/rollosespeciales/gloria.webp"
                 },
                 {
                     "name": { "es": "Takumi Roll", "en": "Takumi Roll" },
                     "description": { "es": "Arroz, alga nori, philadelphia, pepino, aguacate, kanikama spicy, salmón, forrado de pescado, topping de tampico y camarón tempura.", "en": "Rice, nori seaweed, philadelphia, cucumber, avocado, spicy kanikama, salmon, wrapped with fish, tampico and tempura shrimp topping." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, philadelphia, pepino, aguacate, kanikama spicy, salmón, forrado de pesca del día, montado con topping de tampico y camarón tempura, sobre un espejo de salsa de cilantro, ajonjolí, perejil y masago.", "en": "Rice roll, nori seaweed, philadelphia, cucumber, avocado, spicy kanikama, salmon, wrapped with catch of the day, mounted with tampico and tempura shrimp topping, on a cilantro sauce mirror, sesame, parsley and masago." },
                     "price": "240 MXN",
-                    "image": "assets/rollosespeciales/takumi-roll.webp"
+                    "image": "assets/rollosespeciales/takumi-roll.webp",
+                    "proteins": ["salmon", "fish", "shrimp", "crab"],
+                    "photo": "assets/rollosespeciales/takumi-roll.webp"
                 },
                 {
                     "name": { "es": "Aguachile Roll", "en": "Aguachile Roll" },
                     "description": { "es": "Rollo en hoja de arroz con pescado, pepino, aguacate, camarón cocido, topping de camarón fresco, pulpo, callo, cebolla morada.", "en": "Rice paper roll with fish, cucumber, avocado, cooked shrimp, fresh shrimp, octopus, scallop, red onion topping." },
                     "detailedDescription": { "es": "Rollo en hoja de arroz, láminas de pescado, pepino, aguacate, camarón cocido, con topping de camarón fresco, pulpo, callo, cebolla morada en salsa de soya y chiltepín, ajonjolí y cilantro.", "en": "Rice paper roll, fish slices, cucumber, avocado, cooked shrimp, with fresh shrimp, octopus, scallop, red onion topping in soy sauce and chiltepín, sesame and cilantro." },
                     "price": "260 MXN",
-                    "image": "assets/rollosespeciales/aguachile-roll.webp"
+                    "image": "assets/rollosespeciales/aguachile-roll.webp",
+                    "proteins": ["fish", "shrimp", "octopus", "scallop"],
+                    "photo": "assets/rollosespeciales/aguachile-roll.webp"
                 },
                 {
                     "name": { "es": "Skinny Roll", "en": "Skinny Roll" },
                     "description": { "es": "Arroz, alga nori, pepino, aguacate, chile caribe, kanikama empanizado, topping de pescado y chicharrón de piel.", "en": "Rice, nori seaweed, cucumber, avocado, caribe chili, breaded kanikama, fish and skin chicharron topping." },
                     "detailedDescription": { "es": "Rollo de arroz, alga nori, pepino, aguacate, chile caribe, kanikama empanizado, con topping de pesca del día, chicharrón de piel de pescado en salsa spicy, montado sobre salsa serranito y aderezo yuzu, furikake y perejil.", "en": "Rice roll, nori seaweed, cucumber, avocado, caribe chili, breaded kanikama, with catch of the day topping, fish skin chicharron in spicy sauce, mounted on serranito sauce and yuzu dressing, furikake and parsley." },
                     "price": "230 MXN",
-                    "image": "assets/rollosespeciales/skinny-roll.webp"
+                    "image": "assets/rollosespeciales/skinny-roll.webp",
+                    "proteins": ["fish", "crab"],
+                    "photo": "assets/rollosespeciales/skinny-roll.webp"
                 },
                 {
                     "name": { "es": "Harakami Roll", "en": "Harakami Roll" },
                     "description": { "es": "Rollo en hoja de arroz con pescado, cebolla frita, pepino, camarón cocido, kanikama spicy, topping de camarón fresco, pulpo, callo.", "en": "Rice paper roll with fish, fried onion, cucumber, cooked shrimp, spicy kanikama, fresh shrimp, octopus, scallop topping." },
                     "detailedDescription": { "es": "Rollo en hoja de arroz, finas láminas de pesca del día, cebolla frita, pepino, camarón cocido, kanikama spicy, con topping de camarón fresco, pulpo, callo en salsa serranito, montado sobre un espejo de salsa de cilantro, yuzu, togarashi, furikake, perejil.", "en": "Rice paper roll, thin catch of the day slices, fried onion, cucumber, cooked shrimp, spicy kanikama, with fresh shrimp, octopus, scallop topping in serranito sauce, mounted on a cilantro sauce mirror, yuzu, togarashi, furikake, parsley." },
                     "price": "265 MXN",
-                    "image": "assets/rollosespeciales/harakami-roll.webp"
+                    "image": "assets/rollosespeciales/harakami-roll.webp",
+                    "proteins": ["fish", "shrimp", "octopus", "scallop", "crab"],
+                    "photo": "assets/rollosespeciales/harakami-roll.webp"
                 },
                 {
                     "name": { "es": "Rollo Distrito Tres", "en": "Distrito Tres Roll" },
@@ -459,7 +577,9 @@
                     "detailedDescription": { "es": "Especial del chef - Nuestro rollo insignia con ingredientes premium y presentación única. Pregunta por los detalles al servidor.", "en": "Chef's special - Our signature roll with premium ingredients and unique presentation. Ask your server for details." },
                     "price": "280 MXN",
                     "image": "assets/rollosespeciales/distrito-tres.webp",
-                    "promo": "Chef's Special"
+                    "promo": "Chef's Special",
+                    "proteins": ["fish", "shrimp", "crab"],
+                    "photo": "assets/rollosespeciales/distrito-tres.webp"
                 }
             ]
         },
@@ -472,7 +592,9 @@
                     "description": { "es": "Pepino, cebolla morada, aguacate, callo, pulpo, pescado, camarón cocido y fresco.", "en": "Cucumber, red onion, avocado, scallop, octopus, fish, cooked and fresh shrimp." },
                     "detailedDescription": { "es": "Sobre una base de pepino y cebolla morada, aguacate, callo katarina, pulpo, pesca del día, camarón cocido y fresco, con jugo de tomate y ostión, chile serrano, chiltepín y cilantro.", "en": "On a base of cucumber and red onion, avocado, katarina scallop, octopus, catch of the day, cooked and fresh shrimp, with tomato and oyster juice, serrano chili, chiltepín and cilantro." },
                     "price": "240 MXN",
-                    "image": "assets/mariscadas/bellavista.webp"
+                    "image": "assets/mariscadas/bellavista.webp",
+                    "proteins": ["scallop", "octopus", "fish", "shrimp"],
+                    "photo": "assets/mariscadas/bellavista.webp"
                 },
                 {
                     "name": { "es": "Distrito Tres", "en": "Distrito Tres" },
@@ -480,7 +602,9 @@
                     "detailedDescription": { "es": "Pesca del día, pulpo, camarón cocido y fresco, callo katarina, aguacate, con salsa negra de la casa, pepino, cebolla morada, ajonjolí y cilantro.", "en": "Catch of the day, octopus, cooked and fresh shrimp, katarina scallop, avocado, with house black sauce, cucumber, red onion, sesame and cilantro." },
                     "price": "260 MXN",
                     "image": "assets/mariscadas/distrito-tres.webp",
-                    "promo": "Firma del Chef"
+                    "promo": "Firma del Chef",
+                    "proteins": ["fish", "octopus", "shrimp", "scallop"],
+                    "photo": "assets/mariscadas/distrito-tres.webp"
                 }
             ]
         },
@@ -493,21 +617,27 @@
                     "description": { "es": "Rollo de pancake relleno de philadelphia, mango, kiwi, con nutella flameada.", "en": "Pancake roll filled with philadelphia, mango, kiwi, with flamed nutella." },
                     "detailedDescription": { "es": "Rollo de pancake relleno de philadelphia, mango, kiwi, con topping de nutella flameada, nuez, azúcar glass y menta.", "en": "Pancake roll filled with philadelphia, mango, kiwi, with flamed nutella topping, walnut, powdered sugar and mint." },
                     "price": "120 MXN",
-                    "image": "assets/postres/distri-pancakes.webp"
+                    "image": "assets/postres/distri-pancakes.webp",
+                    "proteins": ["vegetarian"],
+                    "photo": "assets/postres/distri-pancakes.webp"
                 },
                 {
                     "name": { "es": "Trillizas", "en": "Trillizas" },
                     "description": { "es": "Tostadas de wonton fritas con azúcar y canela, frutas frescas.", "en": "Fried wonton tostadas with sugar and cinnamon, fresh fruits." },
                     "detailedDescription": { "es": "Tostadas de wonton fritas con azúcar y canela, base de mermelada de fresa, pequeños trozos de kiwi, mango y cerezas.", "en": "Fried wonton tostadas with sugar and cinnamon, strawberry jam base, small pieces of kiwi, mango and cherries." },
                     "price": "95 MXN",
-                    "image": "assets/postres/trillizas.webp"
+                    "image": "assets/postres/trillizas.webp",
+                    "proteins": ["vegetarian"],
+                    "photo": "assets/postres/trillizas.webp"
                 },
                 {
                     "name": { "es": "Crème Brûlée", "en": "Crème Brûlée" },
                     "description": { "es": "Fina crema artesanal de vainilla con azúcar caramelizada.", "en": "Fine artisanal vanilla cream with caramelized sugar." },
                     "detailedDescription": { "es": "Fina crema artesanal de vainilla con una crujiente y dorada capa de azúcar caramelizada al soplete.", "en": "Fine artisanal vanilla cream with a crispy and golden layer of caramelized sugar with blowtorch." },
                     "price": "110 MXN",
-                    "image": "assets/postres/creme-brulee.webp"
+                    "image": "assets/postres/creme-brulee.webp",
+                    "proteins": ["vegetarian"],
+                    "photo": "assets/postres/creme-brulee.webp"
                 }
             ]
         }
@@ -519,5 +649,3 @@
         { "name": "WhatsApp", "url": "https://wa.me/521234567890", "iconClass": "fab fa-whatsapp" }
     ]
 }
-
-
