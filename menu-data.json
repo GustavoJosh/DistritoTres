@@ -1,9 +1,9 @@
 {
     "restaurantName": "Distrito Tres",
-    "logoPath": "assets/logo.webp",
+    "logoPath": "assets/logo.jpeg",
     "restaurantTimes": {
-        "es": "Mar-Vie: 12:00pm - 10:30pm | Sáb-Dom: 1:00pm - 11:00pm | Lunes: Cerrado",
-        "en": "Tue-Fri: 12:00pm - 10:30pm | Sat-Sun: 1:00pm - 11:00pm | Mon: Closed"
+        "es": "Mar-Vie: 1:00pm - 10:00pm | Sáb-Dom: 1:00pm - 10:00pm | Lunes: Cerrado",
+        "en": "Tue-Fri: 1:00pm - 10:00pm | Sat-Sun: 1:00pm - 10:00pm | Mon: Closed"
     },
     "categories": [
         {
@@ -644,8 +644,7 @@
     ],
     "socialMedia": [
         { "name": "Facebook", "url": "https://www.facebook.com/profile.php?id=61587329528163", "iconClass": "fab fa-facebook-f" },
-        { "name": "Instagram", "url": "https://instagram.com/distritotres", "iconClass": "fab fa-instagram" },
-        { "name": "TikTok", "url": "https://tiktok.com/@distritotres", "iconClass": "fab fa-tiktok" },
-        { "name": "WhatsApp", "url": "https://wa.me/521234567890", "iconClass": "fab fa-whatsapp" }
+        { "name": "Instagram", "url": "https://www.instagram.com/distritotres._/", "iconClass": "fab fa-instagram" },
+        { "name": "WhatsApp", "url": "https://wa.me/526122046014", "iconClass": "fab fa-whatsapp" }
     ]
 }
